@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608812110 source:e:\code\c++\post lab 6\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

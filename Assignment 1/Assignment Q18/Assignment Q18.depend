@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610645040 source:e:\code\c++\assignment q18\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

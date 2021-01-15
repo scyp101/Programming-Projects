@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610713403 source:e:\code\c++\assignment q5\main.cpp
+	<iostream>
+	<iomanip>
+

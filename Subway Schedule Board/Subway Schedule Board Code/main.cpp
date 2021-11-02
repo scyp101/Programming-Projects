@@ -1,8 +1,3 @@
-// Kamil Rasheed Siddiqui ME201024
-// Syed Ali Abbas ME201018
-// Farrukh Shahid ME201011
-// Ubair Ahmed Khan ME201066
-
 #include <iostream>
 #include <ctime>
 #include <iomanip>

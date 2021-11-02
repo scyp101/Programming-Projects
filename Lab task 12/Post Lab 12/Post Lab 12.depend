@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612603357 source:e:\code\c++\post lab 12\main.cpp
+	<iostream>
+	<iomanip>
+

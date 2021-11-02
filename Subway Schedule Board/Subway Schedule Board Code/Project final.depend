@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612116579 source:e:\code\c++\project final\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+
